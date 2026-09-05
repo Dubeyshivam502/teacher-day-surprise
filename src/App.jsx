@@ -276,7 +276,7 @@ export default function App() {
             </div>
 
             <motion.div className="glass-panel" variants={itemVariants} style={{ padding: '2rem', textAlign: 'center', background: 'rgba(236, 72, 153, 0.15)', borderColor: 'rgba(236, 72, 153, 0.4)' }}>
-              <h3 style={{ color: '#fdf2f8', fontStyle: 'italic' }}>"Happy Teacher's Day to one of my favourite humans. ❤️"</h3>
+              <h3 style={{ color: '#fdf2f8', fontStyle: 'italic' }}>"Happy Teacher's Day to one of my favourite bestie. ❤️"</h3>
             </motion.div>
 
             <motion.button 
